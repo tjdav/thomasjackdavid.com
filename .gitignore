@@ -1,0 +1,11 @@
+node_modules
+
+# cloudflare
+.wrangler
+wrangler.toml
+
+# ignore private files
+private
+
+# ignore compiled css
+website/css/*
